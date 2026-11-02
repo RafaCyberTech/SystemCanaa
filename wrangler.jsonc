@@ -1,5 +1,5 @@
 {
-  "name": "gestor-sabatina",
+  "name": "systemcanaa",
   "main": "src/index.js",
   "compatibility_date": "2025-09-01",
   "assets": {
@@ -10,14 +10,14 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "gestor-sabatina",
+      "database_name": "systemcanaa",
       "database_id": "<COLA-O-ID-REAL>"
     }
   ],
   "r2_buckets": [
     {
       "binding": "LICOES",
-      "bucket_name": "gestor-sabatina-licoes"
+      "bucket_name": "systemcanaa-licoes"
     }
   ]
 }
